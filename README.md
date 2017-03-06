@@ -1,7 +1,7 @@
 # imageProcessing
 Image processing algorithms, including non-local mean, poisson editing and various segmentation function (region growing, mean-shift)
 
-In this folder are some of my most interresting image processing algorithm : 
+Here are some of my most interresting image processing algorithms : 
 
 Segmentation : region growing algorithm, mean-shift
 Non-local mean : implementation of template matching and denoising using non local mean 
