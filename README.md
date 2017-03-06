@@ -1,5 +1,5 @@
 # imageProcessing
-Image processing algorithms, including non-local mean, poisson editing and various segmentation function (region growing, mean-shift)
+Image processing algorithms, including non-local mean, poisson editing and various segmentation functions (region growing, mean-shift)
 
 Here are some of my most interresting image processing algorithms : 
 
